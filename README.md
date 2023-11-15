@@ -20,7 +20,7 @@
 
 # Instalación 
  
- ```git clone https://github.com/Juandavidart/s3_alpha/s3.sh```
+ ```git clone https://github.com/Juandavidart/s3_alpha```
 
 Abre una terminal y navega al directorio donde descargaste el script.
 
